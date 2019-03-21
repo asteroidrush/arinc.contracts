@@ -1,0 +1,8 @@
+mnt/
+cmake-build-debug/
+.idea/
+.vs/
+.vscode/
+build/
+*.DS_Store
+doc/
